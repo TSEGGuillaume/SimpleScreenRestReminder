@@ -4,7 +4,7 @@ This repository consists of a single script, whose purpose is to remind you to r
 # What is the 20-20-20 rule
 If you spend a lot of time on your computer screen, you have to take care about eye strain.<br>
 As it's very complicated to think about looking away when you are focused on your work, this script is made to remind you to follow the 20-20-20 rule.<br>
-This rule consists in take an ocular break during 20 seconds, by looking in 20 feets, every 20 minutes of screen work.
+This rule consists in taking an ocular break during 20 seconds, by looking in 20 feets, every 20 minutes of screen work.
 
 # Installation
 * ## Allow local script to run
